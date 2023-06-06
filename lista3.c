@@ -173,7 +173,7 @@ int main(void) {
                 if (fabricanteIndice >= 0 && fabricanteIndice < MAX_FABRICANTES) {
                     produtos[i].fabricante = fabricantes[fabricanteIndice];
                 } else {
-                    printf("Índice de fabricante inválido.\n");
+                    printf("Indice de fabricante invalido.\n");
                 }
 
 
